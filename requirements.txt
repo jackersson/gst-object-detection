@@ -3,4 +3,3 @@ numpy==1.14.5
 pygst_utils==0.1.dev8+g8cd97bc
 tensorflow_gpu==1.10.1
 protobuf==3.6.1
-tensorflow==1.11.0
